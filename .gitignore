@@ -2,3 +2,8 @@ test.json
 train.json
 .idea\
 .ipynb_checkpoints\
+evaluations.csv
+milestone1.zip
+sample_submission.csv
+submissions-mfc.csv
+submissions-nmfc.csv
